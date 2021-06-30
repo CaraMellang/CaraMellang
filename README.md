@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaraMellang&show_icons=true&theme=dark)  
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/CaraMellang/mwitter)
+[![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeSctript&logoColor=black)](github.com/CaraMellang/mwitter)
 
 <!--
 **CaraMellang/CaraMellang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
