@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaraMellang&show_icons=true&theme=dark)
-(https://camo.githubusercontent.com/aae05670916876848fca0e5da6c59bb40c50ec3b07a0101ecc6502000468b240/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742532302d2532333030374143432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
+
 
 <!--
 **CaraMellang/CaraMellang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
