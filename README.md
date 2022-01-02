@@ -2,7 +2,7 @@
 Mellang
 ---
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungma1&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaraMellang&theme=dark&hide_border=true&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=jungma1&show_icons=true&theme=dark&count_private=true&hide_border=true" />
   </div>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaraMellang&show_icons=true&theme=dark)   -->
