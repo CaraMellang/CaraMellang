@@ -3,8 +3,9 @@ Mellang
 ---
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungma1&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jungma1&show_icons=true&theme=dark&count_private=true&hide_border=true" />
   </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaraMellang&show_icons=true&theme=dark)  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaraMellang&show_icons=true&theme=dark)   -->
 [![REACT](https://img.shields.io/badge/React-808080?style=for-the-badge&logo=React&logoColor=#61DAFB)](github.com/CaraMellang/mwitter)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](github.com/CaraMellang/mwitter)
 [![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black)](github.com/CaraMellang/mwitter)
