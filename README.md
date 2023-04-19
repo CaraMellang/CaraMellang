@@ -1,6 +1,6 @@
 <!--### 👋 -->
 Mellang
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaraMellang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaraMellang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23082E5C&icon=typescript.svg&icon_color=%230074C3&title=%EB%A9%9C%EB%9E%91&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaraMellang&theme=dark&hide_border=true&layout=compact" />
