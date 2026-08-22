@@ -2,7 +2,7 @@
 Mellang
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaraMellang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23082E5C&icon=typescript.svg&icon_color=%230074C3&title=%EB%A9%9C%EB%9E%91&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![CaraMellang's GitHub stats](https://github-stats-extended.vercel.app/api?username=CaraMellang)](https://github.com/stats-organization/github-stats-extended)
+[![CaraMellang's GitHub stats](https://github-stats-extended.vercel.app/api/?username=CaraMellang&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 ---
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaraMellang&theme=dark&hide_border=true&layout=compact" />
